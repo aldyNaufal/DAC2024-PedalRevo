@@ -221,3 +221,4 @@ Dengan memanfaatkan kekuatan data dan kecerdasan buatan, proyek ini menunjukkan 
 * I Putu Paramaananda Tanaya
 * Muhammad Aldy Naufal Fadhilah 
 * Jonathan Young
+* Nada Firdaus
