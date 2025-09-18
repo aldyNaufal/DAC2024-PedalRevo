@@ -214,3 +214,10 @@ Untuk pemanfaatan praktis, model XGBoost terbaik dapat di-deploy sebagai:
 ## ✍️ 13. Penutup
 
 Dengan memanfaatkan kekuatan data dan kecerdasan buatan, proyek ini menunjukkan potensi besar dalam mengubah cara kita memahami dan mengatasi kemiskinan. Analisis prediktif seperti ini bukan lagi sekadar latihan akademis, melainkan alat strategis yang dapat memberdayakan para pembuat kebijakan untuk menciptakan masa depan yang lebih adil dan sejahtera bagi semua.
+
+
+---
+## Development Team
+* I Putu Paramaananda Tanaya
+* Muhammad Aldy Naufal Fadhilah 
+* Jonathan Young
